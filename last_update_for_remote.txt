@@ -1,1 +1,0 @@
-the file marks the first synchronization with remote repo

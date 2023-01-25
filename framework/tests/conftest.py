@@ -6,8 +6,8 @@ class User:
       self.second_name = None
    
    def create(self):
-      self.name = 'Dimas'
-      self.second_name = 'Dimasik'
+      self.name = 'Dmytro'
+      self.second_name = 'Blidchenko'
 
    def remove(self):
       self.name = ''
